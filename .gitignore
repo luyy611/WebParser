@@ -1,0 +1,7 @@
+# git ignore file
+WebParser/bin
+WebParser/obj
+WebParser\bin\Debug*/
+WebParser\obj\Debug*/
+WebParser.v12.suo
+WebParser.V12.suo
